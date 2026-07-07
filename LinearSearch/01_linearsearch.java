@@ -1,7 +1,7 @@
 class Main {
     public static void main(String[] args) {
        int[] numbs= {1,2,6,83,7,34,247,46,78};
-       int target =247;
+       int target =78;
 
        System.out.println(LinearSearch(numbs, target));
     }
