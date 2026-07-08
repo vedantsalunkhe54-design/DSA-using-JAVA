@@ -1,8 +1,8 @@
 public class LinearStringSearch{
     public static void main(String[] args) {
         String str = "kunal";
-        int target = 'p';
-        System.err.println(LinearSearch(str, target));
+        int target = 'l';
+        System.out.println(LinearSearch(str, target));
         
     }
     static boolean LinearSearch (String str, int target){
